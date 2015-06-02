@@ -5,6 +5,9 @@
     (feebs:make-feeb :box-out)
     (feebs:*active-feeb* :ignore)
     (feebs:feeb-name :shadow)
+    (feebs:set-feeb-name :shadow)
+    (feebs:feeb-heading :shadow)
+    
     (feebs:coordinates :shadow)
     (feebs:planet-name :shadow)
     (feebs:feeb-peeking :shadow)
