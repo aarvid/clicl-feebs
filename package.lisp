@@ -3,6 +3,7 @@
 (cl:defpackage #:clicl-feebs
   (:nicknames #:cleebs)
   (:use #:cl #:alexandria #:clicl #:feebs)
-  (:export #:nada
+  (:export #:publish-feeb-brain
+           #:feeb-repl
            )) 
   
